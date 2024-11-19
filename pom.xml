@@ -203,14 +203,14 @@
 
   <distributionManagement>
 		<repository>
-			<id>spring-release-repo</id>
-			<name>spring-release-repo</name>
-			<url>http://52.66.143.209:8081/repository/spring-release-repo/</url>
+			<id>java-project-repo</id>
+			<name>java-project-repo</name>
+			<url>http://34.212.132.188:8081/repository/java-project-repo/</url>
 		</repository>
 		<snapshotRepository>
-			<id>spring-snapshot-repo</id>
-			<name>spring-snapshot-repo</name>
-			<url>http://52.66.143.209:8081/repository/spring-snapshot-repo/</url>
+			<id>java-project-repo-snap</id>
+			<name>java-project-repo-snap</name>
+			<url>http://34.212.132.188:8081/repository/java-project-repo-snap/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
